@@ -1,0 +1,147 @@
+1;gov tech;Defense & Space;gov_tech;726
+3;tech;Computer Hardware;tech;2447
+4;tech;Computer Software;tech;12308
+5;tech;Computer Networking;tech;3006
+6;tech;Internet;tech;12228
+7;tech;Semiconductors;tech;368
+8;gov tech;Telecommunications;gov_tech;10122
+9;leg;Law Practice;leg;12379
+10;leg;Legal Services;leg;8954
+11;corp;Management Consulting;corp;18643
+12;gov hlth tech;Biotechnology;gov_hlth_tech;2163
+13;hlth;Medical Practice;hlth;7830
+14;hlth;Hospital & Health Care;hlth;43934
+15;hlth tech;Pharmaceuticals;hlth_tech;5275
+16;hlth;Veterinary;hlth;902
+17;hlth;Medical Devices;hlth;2447
+18;good;Cosmetics;good;3036
+19;good;Apparel & Fashion;good;7859
+20;good rec;Sporting Goods;good_rec;1469
+21;good;Tobacco;good;420
+22;good;Supermarkets;good;1384
+23;good man serv;Food Production;good_man_serv;4844
+24;good man;Consumer Electronics;good_man;2832
+25;good man;Consumer Goods;good_man;4941
+26;good man;Furniture;good_man;2115
+27;good man;Retail;good_man;21657
+28;med rec;Entertainment;med_rec;7930
+29;rec;Gambling & Casinos;rec;548
+30;rec serv tran;Leisure, Travel & Tourism;rec_serv_tran;7350
+31;rec serv tran;Hospitality;rec_serv_tran;16604
+32;rec serv;Restaurants;rec_serv;2811
+33;rec;Sports;rec;7715
+34;rec serv;Food & Beverages;rec_serv;6638
+35;art med rec;Motion Pictures and Film;art_med_rec;3318
+36;med rec;Broadcast Media;med_rec;4179
+37;art med rec;Museums and Institutions;art_med_rec;2952
+38;art med rec;Fine Art;art_med_rec;6044
+39;art med rec;Performing Arts;art_med_rec;3334
+40;rec serv;Recreational Facilities and Services;rec_serv;1200
+41;fin;Banking;fin;22125
+42;fin;Insurance;fin;8003
+43;fin;Financial Services;fin;31234
+44;cons fin good;Real Estate;cons_fin_good;10981
+45;fin;Investment Banking;fin;1607
+46;fin;Investment Management;fin;2460
+47;corp fin;Accounting;corp_fin;15804
+48;cons;Construction;cons;17508
+49;cons;Building Materials;cons;3599
+50;cons;Architecture & Planning;cons;6973
+51;cons gov;Civil Engineering;cons_gov;5202
+52;gov man;Aviation & Aerospace;gov_man;2790
+53;man;Automotive;man;7955
+54;man;Chemicals;man;4462
+55;man;Machinery;man;2582
+56;man;Mining & Metals;man;3216
+57;man;Oil & Energy;man;9045
+58;man;Shipbuilding;man;1021
+59;man;Utilities;man;2073
+60;man;Textiles;man;2803
+61;man;Paper & Forest Products;man;577
+62;man;Railroad Manufacture;man;472
+63;agr;Farming;agr;2314
+64;agr;Ranching;agr;273
+65;agr;Dairy;agr;667
+66;agr;Fishery;agr;392
+67;edu;Primary/Secondary Education;edu;9967
+68;edu;Higher Education;edu;8843
+69;edu;Education Management;edu;17531
+70;edu gov;Research;edu_gov;14612
+71;gov;Military;gov;2535
+72;gov leg;Legislative Office;gov_leg;302
+73;gov leg;Judiciary;gov_leg;969
+74;gov;International Affairs;gov;1855
+75;gov;Government Administration;gov;16717
+76;gov;Executive Office;gov;2077
+77;gov leg;Law Enforcement;gov_leg;1921
+78;gov;Public Safety;gov;2294
+79;gov;Public Policy;gov;2025
+80;corp med;Marketing and Advertising;corp_med;28347
+81;med rec;Newspapers;med_rec;1512
+82;med rec;Publishing;med_rec;5594
+83;med rec;Printing;med_rec;2519
+84;med serv;Information Services;med_serv;3126
+85;med rec serv;Libraries;med_rec_serv;1121
+86;org serv;Environmental Services;org_serv;3005
+87;serv tran;Package/Freight Delivery;serv_tran;779
+88;org serv;Individual & Family Services;org_serv;3045
+89;org serv;Religious Institutions;org_serv;1272
+90;org serv;Civic & Social Organization;org_serv;7045
+91;org serv;Consumer Services;org_serv;3477
+92;tran;Transportation/Trucking/Railroad;tran;7099
+93;tran;Warehousing;tran;799
+94;man tech tran;Airlines/Aviation;man_tech_tran;13285
+95;tran;Maritime;tran;2851
+96;tech;Information Technology and Services;tech;42536
+97;corp;Market Research;corp;2317
+98;corp;Public Relations and Communications;corp;7278
+99;art med;Design;art_med;11875
+100;org;Non-Profit Organization Management;org;10031
+101;org;Fund-Raising;org;800
+102;corp org;Program Development;corp_org;1146
+103;art med rec;Writing and Editing;art_med_rec;6068
+104;corp;Staffing and Recruiting;corp;7193
+105;corp;Professional Training & Coaching;corp;8765
+106;fin tech;Venture Capital & Private Equity;fin_tech;1006
+107;gov org;Political Organization;gov_org;1208
+108;corp gov serv;Translation and Localization;corp_gov_serv;1925
+109;med rec;Computer Games;med_rec;1280
+110;corp rec serv;Events Services;corp_rec_serv;5924
+111;art med rec;Arts and Crafts;art_med_rec;10904
+112;good man;Electrical/Electronic Manufacturing;good_man;3668
+113;med;Online Media;med;5544
+114;gov man tech;Nanotechnology;gov_man_tech;201
+115;art rec;Music;art_rec;8696
+116;corp tran;Logistics and Supply Chain;corp_tran;10237
+117;man;Plastics;man;548
+118;tech;Computer & Network Security;tech;1926
+119;tech;Wireless;tech;369
+120;leg org;Alternative Dispute Resolution;leg_org;730
+121;corp org serv;Security and Investigations;corp_org_serv;4180
+122;corp serv;Facilities Services;corp_serv;6679
+123;corp;Outsourcing/Offshoring;corp;841
+124;hlth rec;Health, Wellness and Fitness;hlth_rec;11241
+125;hlth;Alternative Medicine;hlth;2423
+126;med rec;Media Production;med_rec;10913
+127;art med;Animation;art_med;1687
+128;cons corp fin;Commercial Real Estate;cons_corp_fin;1724
+129;fin;Capital Markets;fin;1048
+130;gov org;Think Tanks;gov_org;984
+131;org;Philanthropy;org;615
+132;edu org;E-Learning;edu_org;1043
+133;good;Wholesale;good;5640
+134;corp good tran;Import and Export;corp_good_tran;3343
+135;cons gov man;Mechanical or Industrial Engineering;cons_gov_man;6629
+136;art med rec;Photography;art_med_rec;4949
+137;corp;Human Resources;corp;15247
+138;corp man;Business Supplies and Equipment;corp_man;1588
+139;hlth;Mental Health Care;hlth;12296
+140;art med;Graphic Design;art_med;5536
+141;gov org tran;International Trade and Development;gov_org_tran;3286
+142;good man rec;Wine and Spirits;good_man_rec;960
+143;good;Luxury Goods & Jewelry;good;1352
+144;gov man org;Renewables & Environment;gov_man_org;2967
+145;cons man;Glass, Ceramics & Concrete;cons_man;349
+146;good man;Packaging and Containers;good_man;784
+147;cons man;Industrial Automation;cons_man;2079
+148;gov;Government Relations;gov;4924

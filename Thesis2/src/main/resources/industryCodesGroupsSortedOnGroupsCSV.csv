@@ -1,0 +1,147 @@
+65;agr;Dairy;agr
+63;agr;Farming;agr
+66;agr;Fishery;agr
+64;agr;Ranching;agr
+127;art med;Animation;art_med
+99;art med;Design;art_med
+140;art med;Graphic Design;art_med
+111;art med rec;Arts and Crafts;art_med_rec
+38;art med rec;Fine Art;art_med_rec
+35;art med rec;Motion Pictures and Film;art_med_rec
+37;art med rec;Museums and Institutions;art_med_rec
+39;art med rec;Performing Arts;art_med_rec
+136;art med rec;Photography;art_med_rec
+103;art med rec;Writing and Editing;art_med_rec
+115;art rec;Music;art_rec
+50;cons;Architecture & Planning;cons
+49;cons;Building Materials;cons
+48;cons;Construction;cons
+128;cons corp fin;Commercial Real Estate;cons_corp_fin
+44;cons fin good;Real Estate;cons_fin_good
+51;cons gov;Civil Engineering;cons_gov
+135;cons gov man;Mechanical or Industrial Engineering;cons_gov_man
+145;cons man;Glass, Ceramics & Concrete;cons_man
+147;cons man;Industrial Automation;cons_man
+137;corp;Human Resources;corp
+11;corp;Management Consulting;corp
+97;corp;Market Research;corp
+123;corp;Outsourcing/Offshoring;corp
+105;corp;Professional Training & Coaching;corp
+98;corp;Public Relations and Communications;corp
+104;corp;Staffing and Recruiting;corp
+47;corp fin;Accounting;corp_fin
+134;corp good tran;Import and Export;corp_good_tran
+108;corp gov serv;Translation and Localization;corp_gov_serv
+138;corp man;Business Supplies and Equipment;corp_man
+80;corp med;Marketing and Advertising;corp_med
+102;corp org;Program Development;corp_org
+121;corp org serv;Security and Investigations;corp_org_serv
+110;corp rec serv;Events Services;corp_rec_serv
+122;corp serv;Facilities Services;corp_serv
+116;corp tran;Logistics and Supply Chain;corp_tran
+69;edu;Education Management;edu
+68;edu;Higher Education;edu
+67;edu;Primary/Secondary Education;edu
+70;edu gov;Research;edu_gov
+132;edu org;E-Learning;edu_org
+41;fin;Banking;fin
+129;fin;Capital Markets;fin
+43;fin;Financial Services;fin
+42;fin;Insurance;fin
+45;fin;Investment Banking;fin
+46;fin;Investment Management;fin
+106;fin tech;Venture Capital & Private Equity;fin_tech
+19;good;Apparel & Fashion;good
+18;good;Cosmetics;good
+143;good;Luxury Goods & Jewelry;good
+22;good;Supermarkets;good
+21;good;Tobacco;good
+133;good;Wholesale;good
+24;good man;Consumer Electronics;good_man
+25;good man;Consumer Goods;good_man
+112;good man;Electrical/Electronic Manufacturing;good_man
+26;good man;Furniture;good_man
+146;good man;Packaging and Containers;good_man
+27;good man;Retail;good_man
+142;good man rec;Wine and Spirits;good_man_rec
+23;good man serv;Food Production;good_man_serv
+20;good rec;Sporting Goods;good_rec
+76;gov;Executive Office;gov
+75;gov;Government Administration;gov
+148;gov;Government Relations;gov
+74;gov;International Affairs;gov
+71;gov;Military;gov
+79;gov;Public Policy;gov
+78;gov;Public Safety;gov
+12;gov hlth tech;Biotechnology;gov_hlth_tech
+73;gov leg;Judiciary;gov_leg
+77;gov leg;Law Enforcement;gov_leg
+72;gov leg;Legislative Office;gov_leg
+52;gov man;Aviation & Aerospace;gov_man
+144;gov man org;Renewables & Environment;gov_man_org
+114;gov man tech;Nanotechnology;gov_man_tech
+107;gov org;Political Organization;gov_org
+130;gov org;Think Tanks;gov_org
+141;gov org tran;International Trade and Development;gov_org_tran
+1;gov tech;Defense & Space;gov_tech
+8;gov tech;Telecommunications;gov_tech
+125;hlth;Alternative Medicine;hlth
+14;hlth;Hospital & Health Care;hlth
+17;hlth;Medical Devices;hlth
+13;hlth;Medical Practice;hlth
+139;hlth;Mental Health Care;hlth
+16;hlth;Veterinary;hlth
+124;hlth rec;Health, Wellness and Fitness;hlth_rec
+15;hlth tech;Pharmaceuticals;hlth_tech
+9;leg;Law Practice;leg
+10;leg;Legal Services;leg
+120;leg org;Alternative Dispute Resolution;leg_org
+53;man;Automotive;man
+54;man;Chemicals;man
+55;man;Machinery;man
+56;man;Mining & Metals;man
+57;man;Oil & Energy;man
+61;man;Paper & Forest Products;man
+117;man;Plastics;man
+62;man;Railroad Manufacture;man
+58;man;Shipbuilding;man
+60;man;Textiles;man
+59;man;Utilities;man
+94;man tech tran;Airlines/Aviation;man_tech_tran
+113;med;Online Media;med
+36;med rec;Broadcast Media;med_rec
+109;med rec;Computer Games;med_rec
+28;med rec;Entertainment;med_rec
+126;med rec;Media Production;med_rec
+81;med rec;Newspapers;med_rec
+83;med rec;Printing;med_rec
+82;med rec;Publishing;med_rec
+85;med rec serv;Libraries;med_rec_serv
+84;med serv;Information Services;med_serv
+101;org;Fund-Raising;org
+100;org;Non-Profit Organization Management;org
+131;org;Philanthropy;org
+90;org serv;Civic & Social Organization;org_serv
+91;org serv;Consumer Services;org_serv
+86;org serv;Environmental Services;org_serv
+88;org serv;Individual & Family Services;org_serv
+89;org serv;Religious Institutions;org_serv
+29;rec;Gambling & Casinos;rec
+33;rec;Sports;rec
+34;rec serv;Food & Beverages;rec_serv
+40;rec serv;Recreational Facilities and Services;rec_serv
+32;rec serv;Restaurants;rec_serv
+31;rec serv tran;Hospitality;rec_serv_tran
+30;rec serv tran;Leisure, Travel & Tourism;rec_serv_tran
+87;serv tran;Package/Freight Delivery;serv_tran
+118;tech;Computer & Network Security;tech
+3;tech;Computer Hardware;tech
+5;tech;Computer Networking;tech
+4;tech;Computer Software;tech
+96;tech;Information Technology and Services;tech
+6;tech;Internet;tech
+7;tech;Semiconductors;tech
+119;tech;Wireless;tech
+95;tran;Maritime;tran
+92;tran;Transportation/Trucking/Railroad;tran
+93;tran;Warehousing;tran

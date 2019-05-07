@@ -1,0 +1,13 @@
+jul 04, 2014 3:58:46 AM jung.RunExperiment main
+INFO: start timer running experiment:
+
+jul 04, 2014 3:58:46 AM jung.RunExperiment main
+INFO: start timer for loading int[] nodeConnections:
+jul 04, 2014 3:58:46 AM jung.RunExperiment main
+INFO: Total time loading int[] nodeConnections: 0 seconds
+jul 04, 2014 3:58:48 AM jung.RunExperiment main
+INFO: start timer constructing jung graph:
+jul 04, 2014 3:58:49 AM jung.RunExperiment main
+INFO: Total time constructing jung graph: 1 seconds
+jul 04, 2014 3:58:49 AM jung.RunExperiment main
+INFO: start timer calculating pagerank:

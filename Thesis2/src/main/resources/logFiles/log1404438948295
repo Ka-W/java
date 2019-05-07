@@ -1,0 +1,221 @@
+jul 04, 2014 3:55:48 AM jung.RunExperiment main
+INFO: start timer running experiment:
+
+jul 04, 2014 3:55:48 AM jung.RunExperiment main
+INFO: start timer for loading int[] nodeConnections:
+jul 04, 2014 3:55:48 AM jung.RunExperiment main
+INFO: Total time loading int[] nodeConnections: 0 seconds
+jul 04, 2014 3:55:49 AM jung.RunExperiment main
+INFO: start timer constructing jung graph:
+jul 04, 2014 3:55:50 AM jung.RunExperiment main
+INFO: Total time constructing jung graph: 1 seconds
+jul 04, 2014 3:55:50 AM jung.RunExperiment main
+INFO: start timer calculating pagerank:
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: Total time calculating pagerank: 33 seconds
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4435, rank: 1.0, score: 0.0029861939751821124, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2806, rank: 2.0, score: 0.0028887789124759974, prior: 3.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2883, rank: 3.0, score: 0.001563084726893328, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3389, rank: 4.0, score: 0.0015327307695664246, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4128, rank: 5.0, score: 0.0011980587538247933, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1263, rank: 6.0, score: 8.303934516120049E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4129, rank: 7.0, score: 8.19216477003212E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 227, rank: 8.0, score: 7.374065763549007E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 6, rank: 9.0, score: 7.125174533742182E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 675, rank: 10.0, score: 6.953848616236452E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3063, rank: 11.0, score: 6.78707888721267E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2896, rank: 12.0, score: 6.162400610328217E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2692, rank: 13.0, score: 5.486057939154208E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4320, rank: 14.0, score: 5.480785248752172E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2989, rank: 15.0, score: 5.23174748647336E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1215, rank: 16.0, score: 5.080208185320312E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2811, rank: 17.0, score: 4.963992216713387E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2892, rank: 18.0, score: 4.577639379484903E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 26, rank: 19.0, score: 4.208843690250471E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2890, rank: 20.0, score: 4.1567860597027466E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 706, rank: 21.0, score: 4.134908354114689E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4024, rank: 22.0, score: 4.082948228544153E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3411, rank: 23.0, score: 3.9690891855221906E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3905, rank: 24.0, score: 3.8389760214541124E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1501, rank: 25.0, score: 3.771072544487998E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 245, rank: 26.0, score: 3.660735219736701E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4, rank: 27.0, score: 3.6320523190299075E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4170, rank: 28.0, score: 3.416355954641731E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1848, rank: 29.0, score: 3.3337649547722053E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4334, rank: 30.0, score: 3.2849308712296104E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3444, rank: 31.0, score: 3.27283418889469E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3420, rank: 32.0, score: 3.2088691817054084E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2880, rank: 33.0, score: 3.158559985761236E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 673, rank: 34.0, score: 3.152094767454432E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2897, rank: 35.0, score: 3.125542185637504E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 5, rank: 36.0, score: 3.1169010773550166E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3293, rank: 37.0, score: 3.0754935392902265E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2461, rank: 38.0, score: 2.993566093512964E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 908, rank: 39.0, score: 2.9588337480478073E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1776, rank: 40.0, score: 2.9183028465152244E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2249, rank: 41.0, score: 2.7369331263312087E-4, prior: 3.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2813, rank: 42.0, score: 2.650247506832507E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1577, rank: 43.0, score: 2.6026086411222053E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4117, rank: 44.0, score: 2.554321169966424E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2905, rank: 45.0, score: 2.5260250464641704E-4, prior: 3.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1334, rank: 46.0, score: 2.523398407216454E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 701, rank: 47.0, score: 2.5131056660311044E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1950, rank: 48.0, score: 2.5034244478663533E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 25, rank: 49.0, score: 2.432159284550988E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1339, rank: 50.0, score: 2.3996274619926235E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4434, rank: 51.0, score: 2.3992445884897997E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2451, rank: 52.0, score: 2.383603561761774E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2814, rank: 53.0, score: 2.3797453450791895E-4, prior: 3.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3013, rank: 54.0, score: 2.3345616790308672E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1565, rank: 55.0, score: 2.2999871535769648E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 7, rank: 56.0, score: 2.2577932414129725E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1041, rank: 57.0, score: 2.210317823882381E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3257, rank: 58.0, score: 2.1863488089196736E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4253, rank: 59.0, score: 2.160525763223458E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3908, rank: 60.0, score: 2.1121710987482713E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2903, rank: 61.0, score: 2.111029169915303E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3916, rank: 62.0, score: 2.1103067864478925E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1138, rank: 63.0, score: 2.063482877746518E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 12, rank: 64.0, score: 2.0544715023052131E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2819, rank: 65.0, score: 2.0488841725996038E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4352, rank: 66.0, score: 2.0455167856413194E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1026, rank: 67.0, score: 2.034128503388818E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1372, rank: 68.0, score: 2.028777174096297E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3064, rank: 69.0, score: 1.99984084051447E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1857, rank: 70.0, score: 1.9821766113548855E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 20, rank: 71.0, score: 1.9537952215235843E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2904, rank: 72.0, score: 1.9478912006891784E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 708, rank: 73.0, score: 1.939094299836619E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1021, rank: 74.0, score: 1.9367364627161232E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1554, rank: 75.0, score: 1.927739542715718E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2697, rank: 76.0, score: 1.9171593720939168E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1292, rank: 77.0, score: 1.9123759869736157E-4, prior: 3.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1692, rank: 78.0, score: 1.8999004995137232E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 9, rank: 79.0, score: 1.884345596547083E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 231, rank: 80.0, score: 1.8450174564451865E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 4355, rank: 81.0, score: 1.8394432378477334E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3296, rank: 82.0, score: 1.8104710145242807E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1267, rank: 83.0, score: 1.7964239505671343E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 31, rank: 84.0, score: 1.795917170668026E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1564, rank: 85.0, score: 1.793946491640025E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2443, rank: 86.0, score: 1.7895373209928796E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1145, rank: 87.0, score: 1.7854819326290552E-4, prior: 2.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 24, rank: 88.0, score: 1.7823969557651125E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3297, rank: 89.0, score: 1.7744968087234932E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1782, rank: 90.0, score: 1.76350195549593E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1302, rank: 91.0, score: 1.7534925247589972E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2473, rank: 92.0, score: 1.7510194953421294E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1298, rank: 93.0, score: 1.7476014055552595E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1840, rank: 94.0, score: 1.728964540810474E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1318, rank: 95.0, score: 1.7265286799926068E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 2901, rank: 96.0, score: 1.72260480853815E-4, prior: 3.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 3184, rank: 97.0, score: 1.7101115064782507E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 1500, rank: 98.0, score: 1.703756880284964E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 11, rank: 99.0, score: 1.6996370365608842E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: id: 866, rank: 100.0, score: 1.6682001739711837E-4, prior: 0.0
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: add tasks........
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: start threads........
+jul 04, 2014 3:56:24 AM jung.RunExperiment main
+INFO: nr of tasks is 10
